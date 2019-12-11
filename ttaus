@@ -1,0 +1,29 @@
+[33mcommit d0da50401850a8d2cfa1b1a62e5b2b6fcf8b352f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: bzsw <ishongch@163.com>
+Date:   Wed Dec 11 15:49:20 2019 +0800
+
+    git tracks changes
+
+[33mcommit 3d0fc6b65f6850cb398f407f77476e3fc13f4524[m
+Author: bzsw <ishongch@163.com>
+Date:   Wed Dec 11 15:41:33 2019 +0800
+
+    understand how stage works
+
+[33mcommit 2ea57254f3615bac78642170f8ce684c65dd5b22[m
+Author: bzsw <ishongch@163.com>
+Date:   Wed Dec 11 15:17:26 2019 +0800
+
+    append GPL
+
+[33mcommit 2c80a22b7bd014bfa4c669d7fc15a66be420a0d9[m
+Author: bzsw <ishongch@163.com>
+Date:   Wed Dec 11 15:14:48 2019 +0800
+
+    add distributed
+
+[33mcommit 0e02b39c9def25c8847040af8437cf48482963b8[m
+Author: bzsw <ishongch@163.com>
+Date:   Wed Dec 11 14:48:04 2019 +0800
+
+    wrote a readme file
